@@ -1,0 +1,8 @@
+.classpath
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.sts4-cache/classpath-data.json
+.vscode/launch.json
+.vscode/settings.json
+target/classes/META-INF/MANIFEST.MF
+target/
