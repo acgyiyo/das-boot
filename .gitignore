@@ -6,3 +6,4 @@
 .vscode/settings.json
 target/classes/META-INF/MANIFEST.MF
 target/
+.factorypath
